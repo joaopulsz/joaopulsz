@@ -7,7 +7,7 @@
 ```javascript
  
 const joao = {
-    background: "BSc Psychology @ University of Greenwich, London, UK"
+    background: "BSc Psychology @ University of Greenwich, London, UK",
     experience: [
         "Self-taught full-stack web developer", 
         "Bright Network Technology Academy graduate (12-week coding bootcamp), having received the cohort's MVP award"
