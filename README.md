@@ -1,15 +1,16 @@
 ## Hi there, I'm João 👋
 
-### *psychology grad very passionate about tech and programming, starting a career as a full-stack software engineer*
+### *very passionate about tech and programming, starting a career as a full-stack software engineer*
 
 ## More about myself:
 
 ```javascript
  
 const joao = {
+    background: "BSc Psychology @ University of Greenwich, London, UK"
     experience: [
-        "Self-taught full-stack developer", 
-        "12-week coding bootcamp graduate - received the cohort's MVP award"
+        "Self-taught full-stack web developer", 
+        "Bright Network Technology Academy graduate (12-week coding bootcamp), having received the cohort's MVP award"
     ],
     languages: ["JavaScript", "Python", "Java", "CSS", "HTML"],
     technologies: {
