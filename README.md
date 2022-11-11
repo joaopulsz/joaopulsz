@@ -10,11 +10,11 @@ const joao = {
     background: "BSc Psychology @ University of Greenwich, London, UK",
     experience: [
         "Self-taught full-stack web developer", 
-        "Bright Network Technology Academy graduate (12-week coding bootcamp), having received the cohort's MVP award"
+        "Bright Network Technology Academy graduate (12-week software engineering bootcamp) - received the cohort MVP award"
     ],
     languages: ["JavaScript", "Python", "Java", "CSS", "HTML"],
     technologies: {
-        backend: ["Spring Boot", "Express", "Mongoose", "PostgreSQL", "MongoDB"],
+        backend: ["Spring Boot", "Node", "Express", "Mongoose", "PostgreSQL", "MongoDB"],
         frontend: ["React, Bootstrap"]
     },
     currentlyLearning: ["Data Structures & Algorithms", "MERN"]
