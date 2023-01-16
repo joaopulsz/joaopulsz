@@ -17,7 +17,7 @@ const joao = {
         backend: ["Spring Boot", "Node", "Express", "Mongoose", "PostgreSQL", "MongoDB"],
         frontend: ["React, Bootstrap"]
     },
-    currentlyLearning: ["Data Structures & Algorithms", "MERN"]
+    currentlyLearning: ["Artificial Intelligence"]
 }
          
 ```
