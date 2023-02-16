@@ -1,6 +1,6 @@
 ## Hi there, I'm João 👋
 
-### *very passionate about tech and programming, starting a career as a full-stack software engineer*
+### *very passionate about tech and programming, starting a career as a software engineer*
 
 ## More about myself:
 
